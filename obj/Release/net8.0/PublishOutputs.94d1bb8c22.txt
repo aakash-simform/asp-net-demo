@@ -1,0 +1,7 @@
+/home/aakash/Desktop/asp-net/bin/Release/net8.0/publish/asp-net
+/home/aakash/Desktop/asp-net/bin/Release/net8.0/publish/appsettings.Development.json
+/home/aakash/Desktop/asp-net/bin/Release/net8.0/publish/appsettings.json
+/home/aakash/Desktop/asp-net/bin/Release/net8.0/publish/asp-net.dll
+/home/aakash/Desktop/asp-net/bin/Release/net8.0/publish/asp-net.deps.json
+/home/aakash/Desktop/asp-net/bin/Release/net8.0/publish/asp-net.runtimeconfig.json
+/home/aakash/Desktop/asp-net/bin/Release/net8.0/publish/asp-net.pdb
