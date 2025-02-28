@@ -1,5 +1,6 @@
 SQL query to create the table
-```CREATE TABLE Students (
+```
+    CREATE TABLE Students (
     StudentID INT PRIMARY KEY,
     FirstName VARCHAR(50),
     LastName VARCHAR(50),
