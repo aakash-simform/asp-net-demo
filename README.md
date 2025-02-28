@@ -1,4 +1,4 @@
--- SQL query to create the table
+SQL query to create the table
 CREATE TABLE Students (
     StudentID INT PRIMARY KEY,
     FirstName VARCHAR(50),
@@ -6,7 +6,7 @@ CREATE TABLE Students (
     Age INT
 );
 
--- Inserting demo data into the Students table
+Inserting demo data into the Students table
 INSERT INTO Students (StudentID, FirstName, LastName, Age) VALUES (1, 'John', 'Doe', 20);
 INSERT INTO Students (StudentID, FirstName, LastName, Age) VALUES (2, 'Jane', 'Smith', 22);
 INSERT INTO Students (StudentID, FirstName, LastName, Age) VALUES (3, 'Alice', 'Johnson', 19);
